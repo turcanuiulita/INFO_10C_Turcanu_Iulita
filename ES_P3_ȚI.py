@@ -1,0 +1,5 @@
+print("a", '=','4', 'l', end="\n")
+print("b", '=','7', 'l', end="\n")
+print("c", '=','10', 'l', end="\n")
+print("d", '=','8', 'l', end="\n")
+print('Cantitatea totală de lapte, pentru 7 zile este:', (4+7+10+8)*7, 'l', end="\n")
